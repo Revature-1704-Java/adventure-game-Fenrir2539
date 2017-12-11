@@ -1,6 +1,6 @@
 com\revature\ParserTest.class
+com\revature\CommandWordsTest.class
 com\revature\FileIOTest.class
 com\revature\CommandTest.class
-com\revature\CommandWordsTest.class
 com\revature\PlayerTest.class
 com\revature\AppTest.class
